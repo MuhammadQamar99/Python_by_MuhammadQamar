@@ -54,7 +54,7 @@ You can:
 
 - [W3Schools Python Tutorial](https://www.w3schools.com/python/)
 - [My GitHub Profile](https://github.com/your-username) <!-- Replace with your actual GitHub link -->
-- [Subscribe to my YouTube channel](https://youtube.com/@ItxMuhammadQamar) – I’ll be sharing my coding journey here!
+- [Subscribe to my YouTube channel]((https://www.youtube.com/@MuhammadTheProgrammer)) – I’ll be sharing my coding journey here!
 
 ---
 
